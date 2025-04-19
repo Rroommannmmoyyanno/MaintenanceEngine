@@ -34,7 +34,7 @@ Este proyecto es una página web de documentación técnica sobre mantenimiento 
 
 ## Autor
 
-[Tu Nombre]
+Román M.
 
 ## Licencia
 
